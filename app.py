@@ -5,11 +5,11 @@ from config import GROQ_API_KEY, GROQ_MODEL
 
 
 st.set_page_config(
-    page_title="Research Assistant",
+    page_title="Chatbot",
     page_icon="🤖"
 )
 
-st.title("Research Assistant with Groq AI")
+st.title("Chatbot with Groq AI")
 
 
 # -----------------------------
