@@ -105,4 +105,3 @@ if st.button("Generate Response"):
             st.error("Unexpected response format from Groq.")
 
             st.json(data)
-```
